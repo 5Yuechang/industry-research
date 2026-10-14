@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-username>/industry-research.git ~/.claude/skills/industry-research
+git clone https://github.com/5Yuechang/industry-research.git ~/.claude/skills/industry-research
 ```
 
 ## 使用
